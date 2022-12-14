@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#frame{
+    /* height: 50vw;
+    width: 50vw; */
+    height: 600px;
+    width: 600px;
+    border: 2px solid black;
+    margin: 10px auto;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+#topHalf{
+    width: 100%;
+    height: 70%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#twinWhiteRectangles{
+    height: 100%;
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.vertWhite{
+    width: 100%;
+    height: 45%;
+    background-color: white;
+}
+
+#bigRed{
+    height: 100%;
+    width: 75%;
+    background-color: red;
+}
+
+#bottomHalf{
+    width: 100%;
+    height: 25%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#blueCorner{
+    height: 100%;
+    width: 20%;
+    background-color: #015C9F;
+}
+
+#longWhite{
+    height: 100%;
+    width: 60%;
+    background-color: white;
+}
+
+#tinyTwins{
+    height: 100%;
+    width: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#yellow{
+    background-color: #EDDC6E;
+}
