@@ -1,0 +1,8 @@
+.form-control, .form-control:focus{
+    background-color: navy;
+    color: white;
+}
+
+img{
+    height: 250px;
+}
